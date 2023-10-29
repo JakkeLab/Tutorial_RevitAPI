@@ -1,0 +1,8 @@
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-3_2_Types\bin\Debug\Part1-3_2_Types.exe.config
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-3_2_Types\bin\Debug\Part1-3_2_Types.exe
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-3_2_Types\bin\Debug\Part1-3_2_Types.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-3_2_Types\obj\Debug\Part1-3_2_Types.csproj.AssemblyReference.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-3_2_Types\obj\Debug\Part1-3_2_Types.csproj.SuggestedBindingRedirects.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-3_2_Types\obj\Debug\Part1-3_2_Types.csproj.CoreCompileInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-3_2_Types\obj\Debug\Part1-3_2_Types.exe
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-3_2_Types\obj\Debug\Part1-3_2_Types.pdb

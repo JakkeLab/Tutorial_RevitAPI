@@ -1,0 +1,8 @@
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-1_CSharpBasic\obj\Debug\Part1-3_CSharpBasic.csproj.AssemblyReference.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-1_CSharpBasic\obj\Debug\Part1-3_CSharpBasic.csproj.SuggestedBindingRedirects.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-1_CSharpBasic\obj\Debug\Part1-3_CSharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-1_CSharpBasic\bin\Debug\Part1-1_CSharpBasic.exe.config
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-1_CSharpBasic\bin\Debug\Part1-1_CSharpBasic.exe
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-1_CSharpBasic\bin\Debug\Part1-1_CSharpBasic.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-1_CSharpBasic\obj\Debug\Part1-1_CSharpBasic.exe
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\06_Tutorial\Tutorial_RevitAPI\src\Part1-1_CSharpBasic\obj\Debug\Part1-1_CSharpBasic.pdb
