@@ -1,0 +1,8 @@
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-3_3_ArrayAndList\bin\Debug\Part1-3_3_ArrayAndList.exe.config
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-3_3_ArrayAndList\bin\Debug\Part1-3_3_ArrayAndList.exe
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-3_3_ArrayAndList\bin\Debug\Part1-3_3_ArrayAndList.pdb
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-3_3_ArrayAndList\obj\Debug\Part1-3_3_ArrayAndList.csproj.AssemblyReference.cache
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-3_3_ArrayAndList\obj\Debug\Part1-3_3_ArrayAndList.csproj.SuggestedBindingRedirects.cache
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-3_3_ArrayAndList\obj\Debug\Part1-3_3_ArrayAndList.csproj.CoreCompileInputs.cache
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-3_3_ArrayAndList\obj\Debug\Part1-3_3_ArrayAndList.exe
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-3_3_ArrayAndList\obj\Debug\Part1-3_3_ArrayAndList.pdb

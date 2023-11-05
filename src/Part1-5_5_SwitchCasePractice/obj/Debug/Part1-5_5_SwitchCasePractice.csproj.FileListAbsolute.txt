@@ -1,0 +1,8 @@
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-5_5_SwitchCasePractice\bin\Debug\Part1-5_5_SwitchCasePractice.exe.config
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-5_5_SwitchCasePractice\bin\Debug\Part1-5_5_SwitchCasePractice.exe
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-5_5_SwitchCasePractice\bin\Debug\Part1-5_5_SwitchCasePractice.pdb
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-5_5_SwitchCasePractice\obj\Debug\Part1-5_5_SwitchCasePractice.csproj.AssemblyReference.cache
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-5_5_SwitchCasePractice\obj\Debug\Part1-5_5_SwitchCasePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-5_5_SwitchCasePractice\obj\Debug\Part1-5_5_SwitchCasePractice.csproj.CoreCompileInputs.cache
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-5_5_SwitchCasePractice\obj\Debug\Part1-5_5_SwitchCasePractice.exe
+C:\Users\sjak3\Desktop\Tutorial_RevitAPI-main\src\Part1-5_5_SwitchCasePractice\obj\Debug\Part1-5_5_SwitchCasePractice.pdb
