@@ -5,7 +5,7 @@
 
 <p>강의는 크게 5가지 챕터로 아래와 같이 진행될 예정입니다.</p>
 <ol>
-  <li>Revit을 시작하기전 준비 및 훈련💪💪 : 개발환경 설정 및 C# 기초 문법, Windows Forms 기초</li>
+  <li>Revit을 시작하기전 준비 및 훈련💪💪 : 개발환경 설정 및 C# 기초 문법, 객체지향, Windows Forms 기초</li>
   <li>📘API를 보는 방법과 몇가지 기능 활용해보기</li>
   <li>Windows Forms를 활용하여 GUI 구성하기</li>
   <li>예제형 프로젝트</li>
