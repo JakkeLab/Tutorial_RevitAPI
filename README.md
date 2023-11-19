@@ -9,7 +9,7 @@
   <li>📘API를 보는 방법과 몇가지 기능 활용해보기</li>
   <li>Windows Forms를 활용하여 GUI 구성하기</li>
   <li>예제형 프로젝트</li>
-  <li>심화편 (Google Firebase, 타 프로그램과 연동하기, DBMS 사용하기 등)</li>
+  <li>심화편 (Google Firebase, 타 프로그램과 연동하기, WPF MVVM 구조를 이용한 개발, DBMS 사용하기 등)</li>
 </ol>
 
 <p>강의 링크 : https://velog.io/@jakkelab/series/Revit-API</p>
